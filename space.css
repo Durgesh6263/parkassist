@@ -21,27 +21,7 @@ body {
     padding: 20px;
   }
   
-  /* #search form {
-    margin-bottom: 20px;
-  }
-  
-  #search input[type="text"] {
-    padding: 10px;
-    width: 200px;
-  }
-  
-  #search button {
-    padding: 10px 20px;
-    background-color: #333;
-    color: #fff;
-    border: none;
-    cursor: pointer;
-  }
-  
-  #results {
-    border-top: 1px solid #333;
-    padding-top: 20px;
-  } */
+
   
   footer {
     background-color: #333;
@@ -52,7 +32,7 @@ body {
     bottom: 0;
     width: 100%;
   }
-  /* Add this CSS to styles.css */
+  
 
   .parking-spot {
     width: 50px;
@@ -62,10 +42,10 @@ body {
     cursor: pointer;
     border: 2px solid #333;
     border-radius: 5px;
-    display: flex; /* Use flexbox */
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically */
-    text-align: center; /* Center text horizontally */
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    text-align: center; 
   }
   .spots {
     display: flex;
